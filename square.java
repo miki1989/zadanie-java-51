@@ -1,0 +1,8 @@
+class Square {
+    double a;
+
+    double squareArea(double a) {
+        double wynik = a * a;
+        return wynik;
+    }
+}
